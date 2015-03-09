@@ -1,0 +1,8 @@
+H:\BattleGame\BattleGame\bin\Release\BattleGame.exe
+H:\BattleGame\BattleGame\bin\Release\BattleGame.pdb
+H:\BattleGame\BattleGame\obj\Release\ResolveAssemblyReference.cache
+H:\BattleGame\BattleGame\obj\Release\BattleGame.frmBattleGame.resources
+H:\BattleGame\BattleGame\obj\Release\BattleGame.Properties.Resources.resources
+H:\BattleGame\BattleGame\obj\Release\BattleGame.csproj.GenerateResource.Cache
+H:\BattleGame\BattleGame\obj\Release\BattleGame.exe
+H:\BattleGame\BattleGame\obj\Release\BattleGame.pdb

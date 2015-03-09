@@ -1,0 +1,39 @@
+H:\BattleGame\BattleGame\obj\Debug\ResolveAssemblyReference.cache
+H:\BattleGame\BattleGame\obj\Debug\BattleGame.frmBattleGame.resources
+H:\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+H:\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+H:\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+H:\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+H:\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+H:\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+D:\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+D:\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+D:\BattleGame\BattleGame\obj\Debug\ResolveAssemblyReference.cache
+D:\BattleGame\BattleGame\obj\Debug\BattleGame.frmBattleGame.resources
+D:\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+D:\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+E:\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+E:\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+E:\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+E:\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+E:\BattleGame\BattleGame\obj\Debug\ResolveAssemblyReference.cache
+E:\BattleGame\BattleGame\obj\Debug\BattleGame.frmBattleGame.resources
+E:\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+E:\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+C:\Users\Jake\Desktop\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+C:\Users\Jake\Desktop\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+C:\Users\Jake\Desktop\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+C:\Users\Jake\Desktop\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+C:\Users\Jake\Desktop\BattleGame\BattleGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Desktop\BattleGame\BattleGame\obj\Debug\BattleGame.frmBattleGame.resources
+C:\Users\Jake\Desktop\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+C:\Users\Jake\Desktop\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame\obj\Debug\BattleGame.frmBattleGame.resources
+C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BattleGame">
+</Property><Property Name="Solution File" Value="C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\BattleGame.suo">
+</Property><Property Name="Date" Value="January-25-15">
+</Property><Property Name="Time" Value="3:48 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BattleGame.sln" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BattleGame.suo" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame.suo">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\BattleGame.csproj" Description="Project file successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\BattleGame.csproj">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Form1.cs" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Program.cs" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Program.cs">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Resources\lilvampire66_bloody-wall-background.jpg" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Resources\lilvampire66_bloody-wall-background.jpg">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Form1.resx" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Jake\Desktop\Programing Assignments\Gr.11\BattleGame\Backup\BattleGame\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\BattleGame.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BattleGame" Source="BattleGame\BattleGame.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BattleGame.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BattleGame.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BattleGame" Source="BattleGame\BattleGame.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
